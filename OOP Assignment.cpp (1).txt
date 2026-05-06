@@ -3,9 +3,9 @@
 #include <string>
 using namespace std;
 
-// Name: Azka Khalid 
-// Section B
-// Roll No: F25BSCS071
+// Name: soniashahzadi
+// Section a
+// Roll No: F25bscs104
 // OOP Assignment: Smart Room Manager
 // This program allows users to manage devices in a smart room. Users can add devices, toggle their ON/OFF status, and adjust brightness levels. 
 // The program demonstrates the use of classes, constructors, destructors, and basic OOP principles.
